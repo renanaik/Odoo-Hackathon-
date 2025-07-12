@@ -1,0 +1,32 @@
+body{
+    /* background-image:url(reg.jpg); */
+    height:100vh; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 200px;
+    align-self: center;
+}
+#container{
+    background-color: #3D5B81;
+    height: 30rem;
+    width: 50rem;
+    border-radius: 10px;
+   
+}
+#logo{
+    background-color: #FFFFFF;
+    height: 40px;
+    width: 50rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    /* border: 2px ; */
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 10px; */
+}
